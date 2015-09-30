@@ -26,8 +26,8 @@ INCLUDE_DIRS # include
 CATKIN_DEPENDS geometry_msgs std_msgs message_runtime
 )
 
-set(OPENNI2_DIR ~/OpenNI/OpenNI2)
-set(NITE2_DIR ~/OpenNI/NiTE-2.0.0/)
+set(OPENNI2_DIR ~/OpenNI2)
+set(NITE2_DIR ~/NiTE-2.0.0/)
 
 include_directories(
   # include
